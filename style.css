@@ -1,3 +1,24 @@
 .winner {
 	width: 100%;
 }
+.three {
+	width: 100%;
+}
+.navbar{
+	background:#F97300;
+	font-size: 20px;
+}
+body{
+	margin-top: 50px;
+	font-family: 'Merriweather', serif;
+}
+.header{
+	background-color: #c0c0c0;
+}
+.btn {
+	color: orange;
+}
+.right {
+	position: absolute;
+	right: 15px;
+}
